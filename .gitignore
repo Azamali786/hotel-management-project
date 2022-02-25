@@ -1,0 +1,4 @@
+myenv/
+.env
+zapps.py
+db.sqlite3
